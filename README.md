@@ -1,0 +1,1 @@
+Created a Cricket Score and Match Fixing Prediction project using Python, leveraging popular supervised machine learning algorithms. Predicted match scores and identified potential match-fixing instances based on player performance deviations from average. Implemented data visualization techniques for improved insights.
